@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:7F00FF,50:00DBDE,100:00F5A0&text=Harshitha%20D%20Bangera&fontSize=48&fontColor=ffffff&animation=twinkling"/>

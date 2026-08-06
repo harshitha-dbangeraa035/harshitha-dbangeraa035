@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Computer+Science+Engineer;Full+Stack+MERN+Developer;AI+Enthusiast;Always+Learning+Something+New;Welcome+to+My+GitHub+Profile!" />
 
+
+
 </div>
 
 

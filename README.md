@@ -1,100 +1,42 @@
 <div align="center">
 
-# 👋 Hey, I'm Harshitha D Bangera
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:14B8A6&height=220&section=header&text=Harshitha%20D%20Bangera&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-### Computer Science Engineer • MERN Stack Developer • AI Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Real-World+Projects;Full+Stack+MERN+Developer;Learning+AI+%26+Cloud;Always+Curious+to+Learn+More!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Computer+Science+Engineer;Full+Stack+MERN+Developer;AI+Enthusiast;Always+Learning+Something+New;Welcome+to+My+GitHub+Profile!" />
 
 </div>
 
 ---
 
-## 🌸 About Me
+<div align="center">
+
+### 🌟 Visitor Counter
+
+<img src="https://komarev.com/ghpvc/?username=harshitha-dbangeraa035&style=for-the-badge&color=blueviolet"/>
+
+</div>
+
+---
+
+# 🚀 Tech Universe
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=6"/>
+
+</p>
+
+---
+
+# ⚡ Current Journey
 
 ```text
-💡 Passionate about solving real-world problems through software.
-🚀 Currently building Full Stack MERN applications.
-🤖 Exploring Artificial Intelligence and Cloud Technologies.
-📚 Believer in continuous learning and consistency.
-🎯 Goal: Become a Software Engineer building impactful products.
+🧠 Learning      → AI • MERN • Cloud
+💻 Building      → AI Code Debugger
+🚗 Project       → AI Garage Booking Platform
+🎯 Goal          → Software Engineer
+🌱 Motto         → Learn • Build • Improve
 ```
-
----
-
-# ⚡ Current Focus
-
-| 🔥 Learning | 💻 Building | 🎯 Goal |
-|-------------|------------|---------|
-| MERN Stack | AI Code Debugger | Software Engineer |
-| REST APIs | Garage Booking Platform | Open Source Contributions |
-| Authentication | MongoDB Projects | Clean Architecture |
-
----
-
-# 🧰 Tech Toolbox
-
-### Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,c" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 AI Code Debugger
-
-> Intelligent debugging platform powered by AI.
-
-✨ Features
-
-- AI-powered debugging
-- Code explanation
-- Bug detection
-- Authentication
-- Clean dashboard
-- MERN Architecture
-
----
-
-## 🚗 AI Garage Booking Platform
-
-> Smart platform for vehicle service booking.
-
-✨ Features
-
-- Vehicle Management
-- Service Booking
-- Customer Dashboard
-- Mechanic Dashboard
-- Admin Dashboard
-- Reviews & Payments
 
 ---
 
@@ -102,9 +44,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshitha-dbangeraa035&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=harshitha-dbangeraa035&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha-dbangeraa035&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha-dbangeraa035&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -112,46 +54,76 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=harshitha-dbangeraa035&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=harshitha-dbangeraa035&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 Achievements
-
-🌟 Computer Science Engineering Graduate
-
-🌟 MERN Stack Developer
-
-🌟 AI Application Developer
-
-🌟 Passionate Problem Solver
-
-🌟 Continuous Learner
-
----
-
-# 💭 Developer Philosophy
-
-> *"Great software isn't just written—it's thoughtfully designed, continuously improved, and built to solve real problems."*
-
----
-
-# 🌍 Let's Connect
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<a href="https://github.com/harshitha-dbangeraa035">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=harshitha-dbangeraa035&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitha-dbangeraa035&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💻 Coding Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎵 Coding Vibes
+
+<p align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/harshitha-dbangeraa035">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -160,10 +132,6 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-*"Code with purpose. Learn with curiosity. Build with confidence."*
-
-<img src="https://komarev.com/ghpvc/?username=harshitha-dbangeraa035&style=for-the-badge&color=blue"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:06B6D4,100:4F46E5&height=150&section=footer"/>
 
 </div>

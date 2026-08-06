@@ -1,16 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:14B8A6&height=220&section=header&text=Harshitha%20D%20Bangera&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:06B6D4,100:14B8A6&text=Harshitha%20D%20Bangera&fontColor=ffffff&fontSize=45&fontAlignY=38&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Computer+Science+Engineer;Full+Stack+MERN+Developer;AI+Enthusiast;Always+Learning+Something+New;Welcome+to+My+GitHub+Profile!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=Computer+Science+Engineer;Full+Stack+MERN+Developer;AI+Enthusiast;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!"/>
 
-</div>
-
----
-
-<div align="center">
-
-### 🌟 Visitor Counter
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=harshitha-dbangeraa035&style=for-the-badge&color=blueviolet"/>
 
@@ -18,63 +12,149 @@
 
 ---
 
-# 🚀 Tech Universe
+# 👩‍💻 About Me
 
-<p align="center">
+```yaml
+Name: Harshitha D Bangera
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=6"/>
+Education:
+  - Bachelor of Engineering (Computer Science)
 
-</p>
+Currently Learning:
+  - MERN Stack
+  - Artificial Intelligence
+  - Cloud Technologies
 
----
+Interests:
+  - Full Stack Development
+  - Software Engineering
+  - Artificial Intelligence
+  - UI/UX
 
-# ⚡ Current Journey
-
-```text
-🧠 Learning      → AI • MERN • Cloud
-💻 Building      → AI Code Debugger
-🚗 Project       → AI Garage Booking Platform
-🎯 Goal          → Software Engineer
-🌱 Motto         → Learn • Build • Improve
+Goal:
+  - Build scalable real-world applications
 ```
 
 ---
 
-# 📊 GitHub Analytics
+# 🚀 Tech Stack
+
+### 👨‍💻 Languages
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=harshitha-dbangeraa035&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha-dbangeraa035&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css"/>
 
 </p>
 
 ---
+
+### ⚛️ Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap"/>
+
+</p>
+
+---
+
+### 🛠 Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+---
+
+### 🗄 Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+</p>
+
+---
+
+### ⚙️ Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+</p>
+
+---
+
+# 💼 Featured Projects
+
+## 🤖 AI Code Debugger
+
+AI-powered debugging platform built using the MERN Stack.
+
+### Features
+
+- AI Bug Detection
+- Code Explanation
+- Authentication
+- History Management
+- Responsive Dashboard
+
+---
+
+## 🚗 AI Garage Booking Platform
+
+A modern garage management system.
+
+### Features
+
+- Vehicle Management
+- Booking Services
+- Mechanic Dashboard
+- Admin Dashboard
+- Payments
+- Reviews
+
+---
+
+# 🌱 Currently Exploring
+
+```text
+✓ MERN Stack
+
+✓ REST APIs
+
+✓ JWT Authentication
+
+✓ MongoDB
+
+✓ AI Integration
+
+✓ Deployment
+```
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitha-dbangeraa035&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha-dbangeraa035&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=harshitha-dbangeraa035&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshitha-dbangeraa035&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitha-dbangeraa035&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -90,7 +170,7 @@
 
 ---
 
-# 💻 Coding Quote
+# 💡 Random Developer Quote
 
 <p align="center">
 
@@ -100,30 +180,20 @@
 
 ---
 
-# 🎵 Coding Vibes
-
-<p align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/harshitha-dbangeraa035">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/harshitha-dbangeraa035">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -132,6 +202,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:06B6D4,100:4F46E5&height=150&section=footer"/>
+### ⭐ Thanks for Visiting!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&lines=Thanks+for+visiting!;Happy+Coding!;Let's+Build+Something+Amazing!"/>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:14B8A6,50:06B6D4,100:4F46E5"/>
 
 </div>

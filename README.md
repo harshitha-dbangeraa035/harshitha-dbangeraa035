@@ -60,24 +60,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshitha-dbangeraa035&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitha-dbangeraa035&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
 ---
 
 # 🐍 Contribution Snake

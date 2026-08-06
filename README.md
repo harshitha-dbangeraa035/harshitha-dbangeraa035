@@ -1,162 +1,169 @@
-
 <div align="center">
 
-# ✨ Harshitha D Bangera
+# 👋 Hey, I'm Harshitha D Bangera
 
-### Full Stack Developer • Computer Science Engineer • AI Explorer
+### Computer Science Engineer • MERN Stack Developer • AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&pause=1200&color=6C63FF&center=true&vCenter=true&width=850&lines=Turning+Ideas+into+Applications...;Learning+Every+Day.;Building+With+React+%7C+Node+%7C+MongoDB.;Welcome+to+my+GitHub!" />
-
-<img src="https://komarev.com/ghpvc/?username=harshitha-dbangeraa035&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Real-World+Projects;Full+Stack+MERN+Developer;Learning+AI+%26+Cloud;Always+Curious+to+Learn+More!" />
 
 </div>
 
 ---
 
-# 🌍 Digital Dashboard
-
-| 👩‍💻 Role | 🚀 Focus | 🎯 Goal |
-|-----------|----------|----------|
-| Full Stack Developer | MERN Stack | Software Engineer |
-| AI Enthusiast | REST APIs | Product Development |
-| Lifelong Learner | Cloud | Open Source |
-
----
-
-# 🚀 Development Journey
+## 🌸 About Me
 
 ```text
-2023 ─────────────── Learned Programming
-
-2024 ─────────────── Web Development
-
-2025 ─────────────── MERN Stack
-
-2026 ─────────────── AI Applications
-
-2027 ─────────────── Software Engineer 🚀
+💡 Passionate about solving real-world problems through software.
+🚀 Currently building Full Stack MERN applications.
+🤖 Exploring Artificial Intelligence and Cloud Technologies.
+📚 Believer in continuous learning and consistency.
+🎯 Goal: Become a Software Engineer building impactful products.
 ```
 
 ---
 
-# ⚙ Tech Universe
+# ⚡ Current Focus
 
-<div align="center">
+| 🔥 Learning | 💻 Building | 🎯 Goal |
+|-------------|------------|---------|
+| MERN Stack | AI Code Debugger | Software Engineer |
+| REST APIs | Garage Booking Platform | Open Source Contributions |
+| Authentication | MongoDB Projects | Clean Architecture |
 
-### Languages
+---
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css&perline=6"/>
+# 🧰 Tech Toolbox
 
-### Frameworks
+### Programming
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,bootstrap,tailwind&perline=6"/>
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,c" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-
-</div>
-
----
-
-# 📌 Current Projects
-
-### 🤖 AI Code Debugger
-
-```text
-✔ AI Debugging
-✔ Code Explanation
-✔ Authentication
-✔ Responsive UI
-✔ History
-```
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-### 🚗 AI Garage Booking Platform
+# 🚀 Featured Projects
 
-```text
-✔ Vehicle Management
-✔ Booking System
-✔ Admin Panel
-✔ Mechanic Dashboard
-✔ Payments
-✔ Reviews
-```
+## 🤖 AI Code Debugger
 
----
+> Intelligent debugging platform powered by AI.
 
-# 📈 My GitHub
+✨ Features
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshitha-dbangeraa035&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha-dbangeraa035&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=harshitha-dbangeraa035&theme=transparent&hide_border=true"/>
-
-</div>
+- AI-powered debugging
+- Code explanation
+- Bug detection
+- Authentication
+- Clean dashboard
+- MERN Architecture
 
 ---
 
-# 🎯 Developer Mindset
+## 🚗 AI Garage Booking Platform
 
-> ### "Every line of code is another step toward creating something meaningful."
+> Smart platform for vehicle service booking.
 
----
+✨ Features
 
-# 💻 Currently Learning
-
-```text
-▰▰▰▰▰▰▱▱▱  MERN Stack
-
-▰▰▰▰▰▱▱▱▱  Artificial Intelligence
-
-▰▰▰▰▱▱▱▱▱  Cloud Computing
-
-▰▰▰▰▰▰▰▱▱  Data Structures & Algorithms
-```
+- Vehicle Management
+- Service Booking
+- Customer Dashboard
+- Mechanic Dashboard
+- Admin Dashboard
+- Reviews & Payments
 
 ---
 
-# 🌐 Let's Connect
+# 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshitha-dbangeraa035&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha-dbangeraa035&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=harshitha-dbangeraa035&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+🌟 Computer Science Engineering Graduate
+
+🌟 MERN Stack Developer
+
+🌟 AI Application Developer
+
+🌟 Passionate Problem Solver
+
+🌟 Continuous Learner
+
+---
+
+# 💭 Developer Philosophy
+
+> *"Great software isn't just written—it's thoughtfully designed, continuously improved, and built to solve real problems."*
+
+---
+
+# 🌍 Let's Connect
+
+<p align="center">
 
 <a href="https://github.com/harshitha-dbangeraa035">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00C9A7&height=3"/>
+### ⭐ Thanks for visiting my profile!
 
-### ⭐ Thanks for stopping by!
+*"Code with purpose. Learn with curiosity. Build with confidence."*
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&pause=1000&color=00C9A7&center=true&width=700&lines=Keep+Learning.;Keep+Building.;Keep+Growing.🚀"/>
+<img src="https://komarev.com/ghpvc/?username=harshitha-dbangeraa035&style=for-the-badge&color=blue"/>
 
 </div>
-````

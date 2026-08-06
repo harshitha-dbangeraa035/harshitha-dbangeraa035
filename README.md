@@ -82,13 +82,7 @@
 
 ---
 
-# 🎵 Coding Vibes
 
-<p align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default"/>
-
-</p>
 
 ---
 
@@ -96,7 +90,7 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/www.linkedin.com/in/harshitha-d-bangera">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 

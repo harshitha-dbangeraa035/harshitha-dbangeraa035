@@ -43,18 +43,6 @@
 🌱 Motto         → Learn • Build • Improve
 ```
 
-
----
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=harshitha-dbangeraa035&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
----
-
 # 💻 Coding Quote
 
 <p align="center">

@@ -55,28 +55,11 @@ const harshitha = {
 
 <br/>
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harshitha-dbangeraa035&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitha-dbangeraa035&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha-dbangeraa035&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-
-</div>
 
 <br/>
 
-## 🐍 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/harshitha-dbangeraa035/harshitha-dbangeraa035/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
-
-> ℹ️ The snake animation needs a one-time GitHub Actions setup — see the note at the bottom of this file.
-
-<br/>
 
 ## 🔗 Connect With Me
 

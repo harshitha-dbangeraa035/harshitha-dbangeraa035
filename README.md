@@ -17,21 +17,13 @@
 
 ## 🧭 About Me
 
-```javascript
-const harshitha = {
-  role: "Computer Science Engineer",
-  stack: "Full Stack MERN Developer",
-  currentFocus: "Building production-ready web applications",
-  funFact: "I debug faster with coffee ☕",
-  motto: "Code. Break. Fix. Repeat."
-};
-```
+
 
 - 🎓 Computer Science graduate with a passion for full-stack development
 - ⚛️ Specialize in **MongoDB, Express.js, React, Node.js**
 - 🌱 Currently exploring cloud deployment & system design
-- 💬 Ask me about React, REST APIs, or MongoDB schema design
-- 📫 Reach me — *(add your email / LinkedIn link here)*
+
+- 📫 Reach me — harshithadbangeraa035@gmail.com
 
 <br/>
 
@@ -65,10 +57,11 @@ const harshitha = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://leetcode.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.linkedin.com/in/harshitha-d-bangera"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:harshithadbangeraa035@gmail.com
+"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/harshitha_09014/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
 
 </div>
 

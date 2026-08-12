@@ -43,17 +43,6 @@
 🌱 Motto         → Learn • Build • Improve
 ```
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=harshitha-dbangeraa035&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha-dbangeraa035&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -63,17 +52,6 @@
 
 </p>
 
----
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 ---
 

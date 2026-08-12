@@ -70,5 +70,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" width="100%"/>
 
 <div align="center">
-<i>⭐️ Thanks for stopping by — feel free to explore my repos!</i>
+<i>Thanks for stopping by — feel free to explore my repos!</i>
 </div>

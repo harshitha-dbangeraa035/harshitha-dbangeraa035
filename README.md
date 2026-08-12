@@ -21,7 +21,7 @@
 
 - 🎓 Computer Science graduate with a passion for full-stack development
 - ⚛️ Specialize in **MongoDB, Express.js, React, Node.js**
-- 🌱 Currently exploring cloud deployment & system design
+- 🌱 Currently exploring cloud deployment,Gen AI & system design
 
 - 📫 Reach me — harshithadbangeraa035@gmail.com
 
